@@ -1,2 +1,2 @@
 # linux-sem
-信号量的简单使用，service 与 client 还未处理完成
+信号量的简单使用，service 与 client 还未处理完成，Makefile文件未处理完成
